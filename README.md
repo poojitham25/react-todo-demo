@@ -3,12 +3,19 @@ This is a simple TO DO Application in React. This is a fun project to do for beg
 
 # Commands used to pushlish react files in GitHub :
 git init
+
 git add README.md
+
 git commit -m "initial commit"
+
 git remote add origin https://github.com/poojitham25/react-todo-demo.git
+
 git push -u origin master
+
 git remote set-url origin https://github.com/poojitham25/react-todo-demo.git
+
 npm run build
+
 npm run deploy
 
 # The Published TODO App:
